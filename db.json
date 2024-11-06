@@ -1,10 +1,16 @@
 {
     "users": [
         {
-            "id": 1,
-            "username": "admin",
-            "password": "password",
-            "balance": 2000
+            "id": "f62b",
+            "username": "tester",
+            "password": "123456789",
+            "balance": 10000
+        },
+        {
+            "id": "a1b2c3",
+            "username": "tester",
+            "password": "123456789",
+            "balance": 1000000
         }
     ]
 }
